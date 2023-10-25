@@ -1,1 +1,1 @@
-# This wordle remake is apart of a school project. Original author of many source files was created by Dr.Saturnino at the University of San Diego. The file wordy.py was created by me(Luka Berg) and my partner(Matthew Torno).
+# This wordle remake is apart of a school project. Original author of many source files was created by Dr.Saturnino at the University of San Diego. The file wordy.py, models.py, and test_models.py were created by me(Luka Berg) and my partner(Matthew Torno).
